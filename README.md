@@ -1,1 +1,1 @@
-# NMUDDD
+# CosmeticShoppingApp
